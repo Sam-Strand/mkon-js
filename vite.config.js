@@ -15,7 +15,6 @@ export default defineConfig({
                 index: 'src/index.js',
                 'vite-plugin-mkon': 'src/vite-plugin-mkon.js'
             },
-            name: 'mkon',
             formats: ['es']
         },
         rollupOptions: {
